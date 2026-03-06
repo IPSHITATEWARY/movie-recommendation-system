@@ -79,6 +79,7 @@ Top recommended movies similar to **Toy Story**.
 
 ---
 
-⭐ If you like this project feel free to **star the repository!**
+
+
 
 
